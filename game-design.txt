@@ -6,14 +6,15 @@ juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran,
 resuelven problemas y superan obstáculos.
 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
+El protagonista de esta aventura es PythonMan, un Gladiador de proviente de IAWorldlandia. 
+PythonMan es un hombre de tecnología, que ha sido elegido para una misión
+única: Enseñarle a los niños su idioma. Con su lenguaje simple y muy parecido al humano, PythonMan
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
+los jugadores conceptos clave del mundo de la Programación.
 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
+El jugador podrá seleccionar a PythonMan, para avanzar deberá superar los retos establecidos y los desafíos
+incluirán, conocer conceptos claves del lenguaje de PythonMan, variables, tipos de datos, ciclos, bucles
+y diferentes paradigmas de programación. 
 
 Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
 EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
