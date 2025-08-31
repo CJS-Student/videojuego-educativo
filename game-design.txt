@@ -16,15 +16,16 @@ El jugador podrá seleccionar a PythonMan, para avanzar deberá superar los reto
 incluirán, conocer conceptos claves del lenguaje de PythonMan, variables, tipos de datos, ciclos, bucles
 y diferentes paradigmas de programación. 
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
+Los estudiantes avanzarán mediante de nivel autoincrementable y Cada nivel representa los conceptos
+primordiales que los alumnos deben conocer respecto a la asignatura de Programación, 
+y los jugadores recibirán retroalimentación inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de
-manera efectiva.
+Los jugadores aprenderán Variables mediante el nombramiento de objetos. Se reforzará
+Tipos de datos a través de marcación de ayudas visuales y las evaluaciones se realizarán mediante
+de selección múltiple y elaboración de código por consola, lo que permitirá a los profesores 
+y estudiantes medir el progreso de manera efectiva.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
+El juego se desarrollará usando programación web y tendrá soporte para
+múltiples plataformas debido a su facil integración y adapación. Además, se implementarán características como
+jugabilidad offline para garantizar una experiencia de
 juego fluida y atractiva.
